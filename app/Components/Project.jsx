@@ -5,6 +5,14 @@ import ProjectCard from "./ProjectCard";
 const Project = () => {
   const projects = [
     {
+      liveLink: "https://logistic-rho.vercel.app/",
+      imageSrc: "https://i.imgur.com/ICbosIP.png",
+      projectName: "APS Logistics",
+      description:
+        "APS Logistics is a logistics platform that simplifies the process of booking deliveries. It allows users to schedule pickups, track shipments, and manage delivery details efficiently for smoother operations.",
+      tools: "React.js, TailwindCss, Laravel",
+    },
+    {
       liveLink: "https://cabashexchange.netlify.app/",
       imageSrc: "https://i.imgur.com/ptnIIwM.png",
       projectName: "Cabash Exchange",
@@ -37,12 +45,12 @@ const Project = () => {
       tools: "Wordpress, Woocommerce, Php",
     },
     {
-      liveLink: "https://omnifood-jonas-process.netlify.app/",
-      imageSrc: "https://i.imgur.com/XsiHPA5.png",
-      projectName: "OmniFood",
+      liveLink: "https://phairy.vercel.app/",
+      imageSrc: "https://i.imgur.com/BhGEASk.png",
+      projectName: "Phairy",
       description:
-        "Omnifood's website is your gateway to a world of culinary convenience. Explore our AI-powered food delivery service online, browse a diverse menu, and enjoy a seamless ordering experience right from the comfort of your home.",
-      tools: "Html, CSS, Javascript",
+        "Phairy is a platform designed to connect clients with trusted Afro-Caribbean hairstylists. Users can easily discover, view portfolios, and book highly-rated stylists, simplifying the process for both clients and professionals.",
+      tools: "TailwindCSS, React.js",
     },
     // {
     //   liveLink: "https://sync-website-vumc.vercel.app/",
