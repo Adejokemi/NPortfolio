@@ -96,7 +96,7 @@ const ContactForm = () => {
           ></textarea>
         </div>
         <Button
-          text="S E N D"
+          text="Submit"
           variant="primary"
           className={"lg:mt-4 lg:mr-6 mt-2"}
           type="submit"
