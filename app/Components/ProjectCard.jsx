@@ -5,13 +5,13 @@ const ProjectCard = ({ imageSrc, tools, projectName, liveLink, description }) =>
   return (
     <div className="grid lg:grid-cols-2 lg:gap-8 gap-5 lg:p-4 lg:mb-0 mb-14 ">
       {/* First Column */}
-      <div className="col-span-1 p-4 shadow-lg bg-slate-400">
+      <div className="col-span-1 p-6 shadow-lg bg-slate-200">
         <img
           src={imageSrc}
           alt="Project Image"
           className="w-full h-auto rounded-md"
         />
-        <div className="mt-2 p-2 bg-slate-300 rounded-md">
+        <div className="mt-4 p-2 bg-slate-300 rounded-md">
           <p className="text-sm font-medium text-slate-900">Built with:  <span className="text-xs font-normal text-black">{tools}</span></p>
         </div>
       </div>

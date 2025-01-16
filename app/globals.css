@@ -42,6 +42,21 @@ button:focus {
   color: #eae6e6;
 }
 
+.dark .bg-slate-200{
+  background-color: #475569;
+}
+.dark .bg-slate-300{
+  background-color: #94a3b8;
+}
+
+.dark .text-gray-900{
+  color: white;
+}
+
+.dark .bg-slate-100{
+  background-color: #a8b6c8;
+}
+
 .dark .border-blue-100{
   border-color: rgb(17, 24, 39);
 }

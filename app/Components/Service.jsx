@@ -10,7 +10,7 @@ import {
 } from "react-icons/fa";
 
 const ServiceIcon = ({ icon }) => (
-  <div className="service-icon bg-slate-300 p-2 w-14 h-14 rounded mb-4 flex justify-center ">
+  <div className="service-icon bg-slate-100 p-2 w-14 h-14 rounded mb-4 flex justify-center ">
     {icon}
   </div>
 );
@@ -75,13 +75,13 @@ const Service = () => {
           {services.map((service, index) => (
             <div
               key={index}
-              className="service-card bg-slate-600 p-5 rounded-lg shadow-md transition-transform transform group hover:scale-95"
+              className="service-card bg-slate-200 p-5 rounded-lg shadow-md transition-transform transform group hover:scale-95"
             >
               <ServiceIcon icon={service.icon} />
               <h3 className="service-title text-xl text-pink-500 font-semibold mb-4">
                 {service.title}
               </h3>
-              <p className="service-description text-gray-100">
+              <p className="service-description text-gray-900">
                 {service.description}
               </p>
             </div>

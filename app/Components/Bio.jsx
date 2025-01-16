@@ -33,8 +33,8 @@ const Bio = () => {
         🍰 From Dough to Code 🖥️ Crafting Tasty Treats and Elegant Algorithms!
       </p>
       <p className="text-slate-800 font-medium text-base">
-        Muslimah || Baker || Serial volunteer || Explorer || Frontend dev ||
-        Cybersecurity enthusiast ||
+      Muslimah || Baker || Serial volunteer || Explorer || Frontend/Web developer ||
+        Cybersecurity enthusiast||
       </p>
       <div className="lg:pt-5 pt-3 gap-7 flex  items-center lg:w-3/5">
         <p className="flex gap-2 items-center ">
