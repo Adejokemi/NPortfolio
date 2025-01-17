@@ -30,14 +30,6 @@ const Project = () => {
       tools: "React.js, TailwindCSS",
     },
     {
-      liveLink: "https://erhmz.com.ng/",
-      imageSrc: "https://i.imgur.com/Q3nFQmo.png",
-      projectName: "Erhmz Store",
-      description:
-        "Welcome to Erhmz, your ultimate destination for premium footwear that caters to both men and women. Step into a world where style meets comfort, and every shoe tells a story of craftsmanship and quality.",
-      tools: "Wordpress, Woocommerce, Php",
-    },
-    {
       liveLink: "https://phairy.vercel.app/",
       imageSrc: "https://i.imgur.com/BhGEASk.png",
       projectName: "Phairy",
