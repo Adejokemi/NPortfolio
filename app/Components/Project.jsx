@@ -26,7 +26,7 @@ const Project = () => {
       imageSrc: "https://i.imgur.com/XDWjhmN.png",
       projectName: "Goriola Farms",
       description:
-        "Goriola Farms, is committed to providing high-quality poultry products, including eggs, chickens, and fish. With a passion for sustainable farming, they ensure that their products are fresh, healthy, and ethically sourced. Their farm is dedicated to excellence, nurturing livestock with care to deliver the best to your table.",
+        "Goriola Farms, is committed to providing high-quality poultry products, including eggs, chickens, and fish. With a passion for sustainable farming, they ensure that their products are fresh, healthy, and ethically sourced.",
       tools: "React.js, TailwindCSS",
     },
     {
@@ -58,7 +58,7 @@ const Project = () => {
       imageSrc: "https://i.imgur.com/HAsjIEU.png",
       projectName: "TechShire",
       description:
-        "Techshire, is more than just an IT solution provider; they are your dedicated partner in navigating the ever-evolving landscape of technology. With a firm commitment to excellence, innovation, and customer satisfaction, they strive to empower businesses of all sizes to harness the full potential of technology to achieve their goals.",
+        "Techshire, is more than just an IT solution provider; they are your dedicated partner in navigating the ever-evolving landscape of technology. With a firm commitment to excellence, innovation, and customer satisfaction.",
       tools: "React.js, TailwindCss, PHP",
     },
   ];
