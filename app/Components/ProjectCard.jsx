@@ -5,7 +5,7 @@ const ProjectCard = ({ imageSrc, tools, projectName, liveLink, description }) =>
   return (
     <div className="grid lg:grid-cols-2 lg:gap-8 gap-5 lg:p-4 lg:mb-0 mb-14 ">
       {/* First Column */}
-      <div className="col-span-1 p-6 shadow-lg bg-slate-200">
+      <div className="col-span-1 p-4 shadow-lg bg-slate-200">
         <img
           src={imageSrc}
           alt="Project Image"
