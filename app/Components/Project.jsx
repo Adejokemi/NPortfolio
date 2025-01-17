@@ -61,15 +61,6 @@ const Project = () => {
         "Techshire, is more than just an IT solution provider; they are your dedicated partner in navigating the ever-evolving landscape of technology. With a firm commitment to excellence, innovation, and customer satisfaction, they strive to empower businesses of all sizes to harness the full potential of technology to achieve their goals.",
       tools: "React.js, TailwindCss, PHP",
     },
-
-    {
-      liveLink: "https://emma-laundromat.netlify.app/",
-      imageSrc: "https://i.imgur.com/zuedEFC.png",
-      projectName: "Laundromat",
-      description:
-        "The Laundromat website serves as an informative hub, detailing the company's services and offerings. Visitors can explore from the services provided to company details, and easily connect through the provided contact options for inquiries.",
-      tools: "Html, TailwindCss, Javascript",
-    },
   ];
 
   return (
