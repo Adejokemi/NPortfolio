@@ -11,6 +11,9 @@ const ProjectCard = ({ imageSrc, tools, projectName, liveLink, description }) =>
           alt="Project Image"
           className="w-full h-auto rounded-md"
         />
+         
+        
+        
         <div className="mt-4 p-2 bg-slate-300 rounded-md">
           <p className="text-sm font-medium text-slate-900">Built with:  <span className="text-xs font-normal text-black">{tools}</span></p>
         </div>
